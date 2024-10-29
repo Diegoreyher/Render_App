@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 numpy==1.23.5
 pandas==1.5.3
-scipy==1.10.0
 streamlit==1.24.0
-=======
-numpy==1.23.5
-pandas==1.5.3
-scipy==1.10.0
-streamlit==1.24.0
->>>>>>> d0e8405153096874e1ecf0129265a33c7ce68be9
+scipy==1.11.4
